@@ -1,7 +1,9 @@
-## A potrait web based site for unique design
+# CUSP Clone - Portrait Portfolio Site
+
+A modern, animated portfolio website featuring scroll-triggered animations and smooth transitions.
 
 ## Tech Stack
 - React
-- Tailwind
-- GSAP
+- Tailwind CSS
+- GSAP (GreenSock Animation Platform)
 - GSAP ScrollTrigger
